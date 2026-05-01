@@ -23,7 +23,7 @@ Model: MATLAB Neural Network (patternnet)
 
 How to Run
 Load:
-task2g12_inputs []
+task2g12_inputs 
 task2g12_targets
 
 Run the script:
@@ -35,5 +35,4 @@ Data is not included due to privacy
 
 
 Author
-
 M.-N. Koliaraki (2025)
